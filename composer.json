@@ -1,6 +1,6 @@
 {
-    "name": "timongorpg/creatures",
-    "description": "Creatures package for Timongo",
+    "name": "gamificador/creatures",
+    "description": "Creatures package",
     "type": "library",
     "license": "MIT",
     "authors": [
